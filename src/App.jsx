@@ -1,5 +1,7 @@
+import Example from "./components/Example";
+
 function App() {
-  return <h1>App</h1>;
+  return <Example />;
 }
 
 export default App
